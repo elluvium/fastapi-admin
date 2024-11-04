@@ -29,6 +29,7 @@ pendulum = "*"
 [tool.poetry.dev-dependencies]
 # test
 pytest = "*"
+pytest-cov = "*"
 pytest-asyncio = "*"
 pytest-mock = "*"
 pytest-xdist = "*"
